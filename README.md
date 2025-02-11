@@ -1,1 +1,1 @@
-Similar application to the one in the JSMastery YouTube Channel
+Built a google docs clone, inspired by the video posted by JS Mastery Channel
